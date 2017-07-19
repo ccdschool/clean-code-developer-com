@@ -5,6 +5,7 @@
 * [Virtues](/01abstractions/03_Virtues.md)
 * [Grades](/02grades/04_Grades.md)
   * [Black](/02grades/05_Black_Grade.md)
+  * [Red](/02grades/06_Red_Grade.md)
 
 
 
